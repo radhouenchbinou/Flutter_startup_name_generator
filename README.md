@@ -1,6 +1,7 @@
-# first_app
+# Startup name generator
 
 A new Flutter project.
+generating startup name using flutter
 
 ## Getting Started
 
